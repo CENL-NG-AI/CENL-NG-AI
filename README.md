@@ -1,4 +1,4 @@
-- 👋 Hi, We're @CENL-NG-AI, the Conference of European National Librarians "AI in libraries"(https://www.cenl.org/networkgroups/ai-in-libraries-network-group/) network group!
+- 👋 Hi, We're @CENL-NG-AI, the Conference of European National Librarians ["AI in libraries network group"](https://www.cenl.org/networkgroups/ai-in-libraries-network-group/) !
 
 
 
